@@ -57,9 +57,9 @@
       <category term="Photography" scheme="http://yoursite.com/categories/Photography/"/>
     
     
-      <category term="Life" scheme="http://yoursite.com/tags/Life/"/>
-    
       <category term="Photography" scheme="http://yoursite.com/tags/Photography/"/>
+    
+      <category term="Life" scheme="http://yoursite.com/tags/Life/"/>
     
   </entry>
   
@@ -81,9 +81,9 @@
       <category term="Life" scheme="http://yoursite.com/categories/Life/"/>
     
     
-      <category term="Fitness" scheme="http://yoursite.com/tags/Fitness/"/>
-    
       <category term="Life" scheme="http://yoursite.com/tags/Life/"/>
+    
+      <category term="Fitness" scheme="http://yoursite.com/tags/Fitness/"/>
     
   </entry>
   
